@@ -1,0 +1,11 @@
+.users-box {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+div {
+   width: 50%;
+}
+

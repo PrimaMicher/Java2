@@ -1,0 +1,26 @@
+.target {
+box-sizing: border-box;
+width: 1200px;
+    text-align: center;
+
+}
+
+
+p {
+    background-color: gainsboro;
+}
+
+
+
+
+.product-card {
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+img {
+ width: 20%;
+
+}
